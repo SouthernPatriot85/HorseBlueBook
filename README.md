@@ -5,7 +5,7 @@ Website for HorseBlueBook.com
 
 <h2>Introduction</h2>
 <p>This is my first major project as a beginner web developer. The overarching idea is to have a website
-where horse people can go to find market pricing backing by real data. The site will include multiple formatting
+where horse people can go to find market pricing backed by real data. The site will include multiple formatting
 options to view the data in. There will also be a few premium search options which will allow custom searching.</p>
 
 <h2>Technologies</h2>
